@@ -4,6 +4,17 @@
   margin: 0;
 }
 
+.center{
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 2%;
+  display: flex;
+}
+
 .main{
   padding: 40px 0;
+}
+
+.menu{
+  display: flex;
 }
