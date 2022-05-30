@@ -15,6 +15,20 @@ function App() {
               <a href="#">Login</a>
             </div>
           </div>
+          <div className="form">
+            <form>
+
+              <h2>Contact</h2>
+              <div className="items-form">
+                <input type="text"/>
+                <input type="text"/>
+                <input type="text"/>
+                <input type="text"/>
+                <input type="submit"/>                
+              </div>
+
+            </form>
+          </div>
 
         </div>
 
