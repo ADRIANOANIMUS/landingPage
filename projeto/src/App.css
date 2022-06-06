@@ -46,3 +46,10 @@
   margin: 10px auto;
   text-align: center;
 }
+
+.form input[type=text]{
+width: 30%;
+justify-content: space-around;
+height: 30px;
+margin: 8px 10px;
+}
