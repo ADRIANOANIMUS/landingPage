@@ -17,10 +17,10 @@ function App() {
             <h2>Preencha os dados para contato!</h2>
             <form>
               <div className="items-form">
-                <input type="text" />
-                <input type="text" />
-                <input type="text" />
-                <input type="text" />
+                <input Placeholder="Seu nome..." type="text" />
+                <input Placeholder="Seu nome..." type="text" />
+                <input Placeholder="Seu nome..." type="text" />
+                <input Placeholder="Seu nome..." type="text" />
                 <input type="submit" />
               </div>
 

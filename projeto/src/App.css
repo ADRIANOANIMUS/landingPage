@@ -86,3 +86,11 @@ margin: 8px 10px;
     border: 0;
     font-size: 19px;
     }
+
+
+    @media screen and (max-width: 768px) {
+      .items-form input[type=text]{
+        width: 100%;
+      }
+      
+    }
