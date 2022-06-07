@@ -8,23 +8,22 @@ function App() {
         <div className="center">
           <div className="menu">
             <div className="logo">
-              <h3>Adriano</h3>
-
             </div>
             <div className="item-menu">
               <a href="#">Login</a>
             </div>
           </div>
           <div className="form">
+            <h2>Preencha os dados para contato!</h2>
             <form>
 
               <h2>Contact</h2>
               <div className="items-form">
-                <input type="text"/>
-                <input type="text"/>
-                <input type="text"/>
-                <input type="text"/>
-                <input type="submit"/>                
+                <input type="text" />
+                <input type="text" />
+                <input type="text" />
+                <input type="text" />
+                <input type="submit" />
               </div>
 
             </form>
