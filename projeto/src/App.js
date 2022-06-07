@@ -16,8 +16,6 @@ function App() {
           <div className="form">
             <h2>Preencha os dados para contato!</h2>
             <form>
-
-              <h2>Contact</h2>
               <div className="items-form">
                 <input type="text" />
                 <input type="text" />
