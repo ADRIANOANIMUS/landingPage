@@ -40,7 +40,6 @@
 }
 
 .form{
-  background-color: green;
   display: flex;
   width: 100%;
   max-width: 600px;
@@ -55,3 +54,27 @@ justify-content: space-around;
 height: 30px;
 margin: 8px 10px;
 }
+
+.form h2{
+  color: white;
+}
+
+.items-form{
+  margin:0 auto;
+  max-width: 540px;
+  display: flex;
+  width: 100%;
+  justify-content: space-around; 
+  flex-wrap: wrap;  
+  }
+
+.items-form input[type=text]{
+  width: 48%;
+  height: 30px;
+  margin: 8px 0px;
+  }
+
+  .items-form input[type=submit]{
+    width: 100%;
+    height: 40px;  
+    }
