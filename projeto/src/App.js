@@ -18,9 +18,9 @@ function App() {
             <form>
               <div className="items-form">
                 <input Placeholder="Seu nome..." type="text" />
-                <input Placeholder="Seu nome..." type="text" />
-                <input Placeholder="Seu nome..." type="text" />
-                <input Placeholder="Seu nome..." type="text" />
+                <input Placeholder="Seu e-mail..." type="text" />
+                <input Placeholder="Sua Profissao..." type="text" />
+                <input Placeholder="Sua Cidade..." type="text" />
                 <input type="submit" />
               </div>
 
@@ -30,6 +30,22 @@ function App() {
         </div>
 
 
+      </div>
+      <div className="conteudo">
+        <div className="center">
+          <div className="conteudo-single">
+            <h3>Titulo da Chamada</h3>
+            <p>Espaço destinado aos conteudos para melhor definição da Landing Page
+              criada por Adriano Pereira, desenvolvedor Front-end
+              em formação.</p>
+          </div>
+          <div className="conteudo-single">
+            <h3>Titulo da Chamada</h3>
+            <p>Espaço destinado aos conteudos para melhor definição da Landing Page
+              criada por Adriano Pereira, desenvolvedor Front-end
+              em formação.</p>
+          </div>
+        </div>
       </div>
 
     </div>
